@@ -5,6 +5,7 @@ Currently learning how systems work closer to the metal, while building practica
 ---
 
 **[InterviewLab](https://interviewlab-lovat.vercel.app)** — voice-first AI interview practice platform for live interviews, scoring, and feedback  
+**[Recircle](https://www.recircle.cv/)** — recycling coordination platform that matches waste to nearby recyclers, locks payouts in wallet escrow, and settles consumers on collection
 **[Focus](https://focus-web-xi.vercel.app/)** — time-driven execution system for planning work and understanding where your time actually goes  
 **[MamaVoice](https://www.mamavoice.com.ng/)** — voice AI backend for a maternal health companion  
 **[BetFolio](https://betfolio-nu.vercel.app)** — private betting P&L tracker with AI-assisted betslip extraction  
