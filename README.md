@@ -6,7 +6,7 @@ Currently learning how systems work closer to the metal, while building practica
 
 **[InterviewLab](https://interviewlab-lovat.vercel.app)** — voice-first AI interview practice platform for live interviews, scoring, and feedback  
 **[Focus](https://focus-web-xi.vercel.app/)** — time-driven execution system for planning work and understanding where your time actually goes  
-**[MamaVoice](https://github.com/Izzy678/mama-voice-backend-hackathon)** — voice AI backend for a maternal health companion  
+**[MamaVoice](https://www.mamavoice.com.ng/)** — voice AI backend for a maternal health companion  
 **[BetFolio](https://betfolio-nu.vercel.app)** — private betting P&L tracker with AI-assisted betslip extraction  
 **[CrowdCart](https://crowd-cart-psi.vercel.app/)** — conditional group purchases on Monad using smart contracts  
 **[QueueFlow](https://queue-flow-web-two.vercel.app/)** — real-time queue management with QR joining, alerts, and analytics
